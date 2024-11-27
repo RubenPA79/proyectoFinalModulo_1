@@ -1,0 +1,13 @@
+# Ignorar node_modules
+node_modules/
+
+# Ignorar archivos .js generados por TypeScript
+*.js
+
+# Ignorar archivos de lock
+package-lock.json
+
+# Ignorar configuraciones específicas del sistema
+.DS_Store
+.idea/
+.vscode/

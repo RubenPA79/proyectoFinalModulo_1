@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Example Movie",
+    "releaseYear": 2023,
+    "actors": [
+      {
+        "name": "Actor 1",
+        "age": 30,
+        "weight": 75,
+        "height": 180,
+        "isRetired": false,
+        "nationality": "USA",
+        "oscarNumbers": 0,
+        "profession": "Actor"
+      },
+      {
+        "name": "Actor 2",
+        "age": 25,
+        "weight": 70,
+        "height": 175,
+        "isRetired": false,
+        "nationality": "Canada",
+        "oscarNumbers": 0,
+        "profession": "Actor"
+      }
+    ],
+    "nationality": "USA",
+    "director": {
+      "name": "Director",
+      "age": 50,
+      "weight": 70,
+      "height": 180,
+      "isRetired": false,
+      "nationality": "USA",
+      "oscarNumbers": 2,
+      "profession": "Director"
+    },
+    "writer": {
+      "name": "Writer",
+      "age": 40,
+      "weight": 65,
+      "height": 170,
+      "isRetired": false,
+      "nationality": "UK",
+      "oscarNumbers": 1,
+      "profession": "Writer"
+    },
+    "language": "English",
+    "platform": "Netflix",
+    "isMCU": false,
+    "mainCharacterName": "John Doe",
+    "producer": "Producer",
+    "distributor": "Distributor",
+    "genre": "Action"
+  }
+]
